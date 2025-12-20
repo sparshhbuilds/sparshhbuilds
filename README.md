@@ -32,7 +32,7 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd Year B.Tech Student (Electronics & Communication)
+- 🎓 Final Year B.Tech Student
 - 🎯 Currently diving deeper into the MERN stack and DSA
 - 🌱 Always learning, always building
 - 🧠 Future MS in CS aspirant, but still debugging life
