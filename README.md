@@ -34,8 +34,6 @@
 
 - 🎓 Final Year B.Tech Student
 - 🎯 Currently diving deeper into the MERN stack and DSA
-- 🌱 Always learning, always building
-- 🧠 Future MS in CS aspirant, but still debugging life
 
 ---
 
