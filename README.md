@@ -60,7 +60,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sparsh13b&show_icons=true&theme=radical" alt="stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh13b&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshhBirla&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ### 🔥 Streaks & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sparsh13b&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sparshhBirla&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
   <br>
   
 </p>
