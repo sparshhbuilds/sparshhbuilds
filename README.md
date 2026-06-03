@@ -122,7 +122,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sparsh%20Birla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:sparshbirla1@gmail.com">
     <img src="https://img.shields.io/badge/Email-sparshbirla1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
